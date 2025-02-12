@@ -65,7 +65,7 @@ Repositori ini berisi dua sistem **Kasir (Cash Register)** yang berbeda:
 
 3. **Jalankan Aplikasi Desktop**  
    Buka NetBeans (atau compiler Java lainnya) dan buka project kasir di folder:  
-   `.\LSP_WILDAN_FATHAN_XIIPPLG2\PBO_KASIR_JAVA\kasir_desktop\src\penjualan_java`
+   `.\LSP_FAIZ_NAUFAL_AKBAR_XII PPLG 2\PBO_KASIR_JAVA\kasir_desktop\src\penjualan_java`
 
 4. **Login**  
    Gunakan username dan password yang telah disediakan di atas untuk login ke aplikasi desktop kasir.
